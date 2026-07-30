@@ -1,9 +1,9 @@
 {
-  "version": 25,
-  "updated_at": "2026-07-30T12:00:00Z",
+  "version": 26,
+  "updated_at": "2026-07-30T16:02:39Z",
   "servers": [
     {
-      "url": "https://23649d7be14a7e3b-123-123-97-213.serveousercontent.com",
+      "url": "https://e802ac9992839af2-123-123-97-213.serveousercontent.com",
       "label": "primary",
       "created_at": "2026-07-30T12:00:00Z"
     }
