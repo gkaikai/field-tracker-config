@@ -1,11 +1,11 @@
 {
-  "version": 4594,
-  "updated_at": "2026-08-28T04:00:12Z",
+  "version": 4595,
+  "updated_at": "2026-08-28T04:05:18Z",
   "servers": [
     {
-      "url": "https://acafe46b1347971d-123-123-97-213.serveousercontent.com",
+      "url": "https://4f4287b8307d64c6-123-123-97-213.serveousercontent.com",
       "label": "primary",
-      "created_at": "2026-08-28T04:00:12Z"
+      "created_at": "2026-08-28T04:05:18Z"
     }
   ]
 }
