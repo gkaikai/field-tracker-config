@@ -1,11 +1,11 @@
 {
-  "version": 5364,
-  "updated_at": "2026-08-30T22:55:11Z",
+  "version": 5365,
+  "updated_at": "2026-08-30T23:00:12Z",
   "servers": [
     {
-      "url": "https://9bb37b0603857425-123-123-97-213.serveousercontent.com",
+      "url": "https://c4ae76377fce92c7-123-123-97-213.serveousercontent.com",
       "label": "primary",
-      "created_at": "2026-08-30T22:55:11Z"
+      "created_at": "2026-08-30T23:00:12Z"
     }
   ]
 }
