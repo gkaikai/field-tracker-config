@@ -1,11 +1,11 @@
 {
-  "version": 9470,
-  "updated_at": "2026-09-16T07:00:11Z",
+  "version": 9471,
+  "updated_at": "2026-09-16T07:05:14Z",
   "servers": [
     {
-      "url": "https://704712d9cfafebe3-123-123-97-213.serveousercontent.com",
+      "url": "https://bcc26dad3ec64e78-123-123-97-213.serveousercontent.com",
       "label": "primary",
-      "created_at": "2026-09-16T07:00:11Z"
+      "created_at": "2026-09-16T07:05:14Z"
     }
   ]
 }
