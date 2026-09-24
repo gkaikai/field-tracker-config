@@ -1,11 +1,11 @@
 {
-  "version": 11679,
-  "updated_at": "2026-09-24T01:30:12Z",
+  "version": 11680,
+  "updated_at": "2026-09-24T01:35:12Z",
   "servers": [
     {
-      "url": "https://bcdc2ef8b3c5f3e5-123-123-97-213.serveousercontent.com",
+      "url": "https://fabea9748574641e-123-123-97-213.serveousercontent.com",
       "label": "primary",
-      "created_at": "2026-09-24T01:30:12Z"
+      "created_at": "2026-09-24T01:35:12Z"
     }
   ]
 }
