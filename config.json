@@ -1,11 +1,11 @@
 {
-  "version": 12191,
-  "updated_at": "2026-09-25T20:25:28Z",
+  "version": 12192,
+  "updated_at": "2026-09-25T20:30:29Z",
   "servers": [
     {
-      "url": "https://fda234f6311a1ec0-123-123-97-213.serveousercontent.com",
+      "url": "https://98a1401e98e96d42-123-123-97-213.serveousercontent.com",
       "label": "primary",
-      "created_at": "2026-09-25T20:25:28Z"
+      "created_at": "2026-09-25T20:30:29Z"
     }
   ]
 }
